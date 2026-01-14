@@ -1,0 +1,18 @@
+---
+title: "Introduction"
+date: "2026-01-11"
+categories: [Introduction]
+image: "intro.jpg"
+---
+
+Electric vehicles (EVs) are often seen as an important solution for reducing carbon emissions from transportation, especially in cities where road traffic contributes a large share of CO2 emissions [1]. Compared to traditional internal combustion engine vehicles, EVs are more energy efficient and produce no direct tailpipe emissions, which makes them attractive for countries aiming to meet long-term climate goals [1]. Because of this, many governments are actively encouraging EV adoption through policies, incentives, and plans to phase out gasoline-powered vehicles.
+
+However, despite these benefits, EV adoption still faces several real-world challenges. Issues such as limited driving range, battery performance, and charging availability continue to affect user experience. A key problem behind many of these challenges is the difficulty of accurately estimating EV energy consumption in real driving conditions, especially in complex urban environments where traffic, road conditions, and driving behavior vary constantly [1]. Reliable energy consumption predictions are crucial for reducing range anxiety, supporting route planning, and improving charging and energy management strategies.
+
+Traditional methods for modeling EV energy consumption are often based on physical or rule-based models that rely on vehicle dynamics and predefined assumptions. While these models are grounded in physics, they usually require detailed vehicle parameters and struggle to adapt to different vehicles, cities, and driving patterns [1]. As a result, their performance can be limited when applied to large-scale, real-world urban transportation systems.
+
+In recent years, machine learning has become an increasingly popular approach for modeling EV energy consumption. By learning directly from data, machine learning models can capture complex relationships between energy use and factors such as speed, acceleration, traffic conditions, weather, and driving behavior, often achieving better prediction accuracy than traditional methods [1]. This blog builds on recent research to explore how machine learning is used to model EV energy consumption in urban settings and why these approaches are important for supporting more sustainable and intelligent transportation systems.
+
+
+Reference
+[1] X. Zhang, Z. Zhang, Y. Liu, Z. Xu, and X. Qu, “A review of machine learning approaches for electric vehicle energy consumption modelling in urban transportation,” Renewable Energy, vol. 234, p. 121243, Nov. 2024. doi:10.1016/j.renene.2024.121243 

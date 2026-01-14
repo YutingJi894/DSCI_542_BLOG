@@ -1,0 +1,18 @@
+---
+title: "Vehicle Dynalic Modelling"
+date: "2026-01-12"
+categories: [Traditional methods, analysis]
+image: "vehicle_dynamic_modelling.jpg"
+---
+
+One traditional approach to estimating EV energy consumption is vehicle dynamics modelling, which relies on physical laws to describe how a vehicle moves and consumes energy. These models typically calculate energy use based on forces acting on the vehicle, such as aerodynamic drag, rolling resistance, road gradient, and acceleration, along with battery efficiency [1]. By combining these components, vehicle dynamics models aim to estimate energy consumption over a given driving cycle.
+
+Vehicle dynamics models are attractive because they are physically interpretable and grounded in well-understood principles of mechanics. Given accurate vehicle parameters and driving profiles, they can provide reasonable estimates of energy consumption and help explain how different factors contribute to energy use [1]. For example, they can clearly show how frequent acceleration, higher speeds, or uphill driving increase energy demand.
+
+However, these models also have several limitations when applied to real-world urban driving. They often require detailed and vehicle-specific parameters, such as mass, drag coefficients, and powertrain characteristics, which may not always be available or easy to measure [1]. In addition, many assumptions are made to simplify the modeling process, such as constant efficiencies or idealized driving conditions, which may not hold in congested or highly variable urban environments.
+
+As a result, while vehicle dynamics modelling provides a strong theoretical foundation for understanding EV energy consumption, its ability to scale across different vehicles, drivers, and cities is limited. These challenges have motivated researchers to explore data-driven alternatives, such as machine learning models, that can better capture the complexity and variability of real-world urban transportation systems [1].
+
+
+Reference
+[1] X. Zhang, Z. Zhang, Y. Liu, Z. Xu, and X. Qu, “A review of machine learning approaches for electric vehicle energy consumption modelling in urban transportation,” Renewable Energy, vol. 234, p. 121243, Nov. 2024. doi:10.1016/j.renene.2024.121243 

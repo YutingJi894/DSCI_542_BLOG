@@ -1,0 +1,30 @@
+---
+title: "Application in urban transportation"
+date: "2026-01-15"
+categories: [application]
+image: "urban.jpg"
+---
+
+Machine learning–based EV energy consumption models are not only useful from a research perspective, but also play an important role in real-world transportation systems. Accurate energy consumption predictions can support decision-making at multiple levels, from individual drivers to city planners and policymakers \[1\].
+
+\![Figure 1: EV charging\] (Applications/urban.jpg)
+
+**Route Planning and Range Estimation**
+
+One of the most direct applications is route planning and range estimation. By predicting how much energy an EV will consume under different traffic conditions, road types, and driving behaviors, these models can help drivers choose routes that minimize energy use and reduce range anxiety \[1\]. This is especially important in urban environments where traffic congestion and frequent stops can significantly affect energy consumption.
+
+**Charging Infrastructure Planning**
+
+Energy consumption models are also valuable for planning and optimizing EV charging infrastructure. By understanding when and where EVs are likely to consume more energy, city planners and utility providers can better anticipate charging demand and decide where charging stations should be installed \[1\]. This helps improve accessibility while avoiding unnecessary over-investment in underused locations.
+
+**Energy and Transportation System Management**
+
+At a broader level, EV energy consumption modeling supports intelligent transportation systems and energy management. Aggregated predictions of EV energy use can be used to forecast electricity demand, coordinate charging schedules, and reduce stress on the power grid during peak hours \[1\]. These applications are particularly important as EV adoption continues to grow in densely populated urban areas.
+
+**Policy and Sustainability Analysis**
+
+Finally, machine learning models provide useful insights for policy evaluation and sustainability analysis. By identifying key factors that influence EV energy consumption, policymakers can design more effective incentives, regulations, and urban planning strategies to promote efficient and sustainable transportation \[1\]. In this way, EV energy consumption modeling contributes not only to technical optimization but also to long-term environmental and societal goals.
+
+Reference
+
+\[1\] X. Zhang, Z. Zhang, Y. Liu, Z. Xu, and X. Qu, “A review of machine learning approaches for electric vehicle energy consumption modelling in urban transportation,” Renewable Energy, vol. 234, p. 121243, Nov. 2024. doi:10.1016/j.renene.2024.121243

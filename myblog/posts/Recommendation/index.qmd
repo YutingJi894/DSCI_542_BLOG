@@ -1,0 +1,16 @@
+---
+title: "Recommendation"
+date: "2026-01-16"
+categories: [recommendation]
+image: "green.jpg"
+---
+
+While machine learning models have shown strong potential for predicting EV energy consumption, there are several directions where future research and applications can be improved. One important area is the integration of richer and more diverse data sources. Incorporating real-time traffic data, high-resolution weather information, road topology, and driver behavior data could further improve model accuracy and robustness, especially in complex urban environments [1].
+
+Another key recommendation is to continue improving model generalizability. Many existing studies rely on data collected from specific cities, vehicle types, or driving conditions, which may limit how well models perform when applied elsewhere [1]. Future work should focus on developing models that can transfer across different regions and vehicle fleets, or on methods that allow efficient retraining with limited new data.
+
+There is also a growing need to balance predictive performance with interpretability. While complex machine learning models can achieve high accuracy, their lack of transparency can reduce trust and limit practical adoption [1]. Future research should continue exploring interpretable machine learning techniques that provide meaningful insights into how different factors affect EV energy consumption, making these models more useful for planners and policymakers.
+
+
+Reference
+[1] X. Zhang, Z. Zhang, Y. Liu, Z. Xu, and X. Qu, “A review of machine learning approaches for electric vehicle energy consumption modelling in urban transportation,” Renewable Energy, vol. 234, p. 121243, Nov. 2024. doi:10.1016/j.renene.2024.121243 

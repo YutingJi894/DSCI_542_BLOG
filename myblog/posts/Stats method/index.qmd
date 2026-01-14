@@ -1,0 +1,17 @@
+---
+title: "Statistical Method"
+date: "2026-01-13"
+categories: [Traditional methods, analysis]
+image: "stats_method.jpg"
+---
+
+Before the widespread use of machine learning, many studies relied on statistical methods to model EV energy consumption. These approaches typically use regression-based models to relate energy use to a set of explanatory variables such as vehicle speed, acceleration, trip distance, road slope, and environmental conditions [1]. Common examples include linear regression and generalized linear models, which aim to capture average relationships between inputs and energy consumption.
+
+Statistical models are often valued for their simplicity and interpretability. The estimated coefficients provide clear information about how individual factors influence energy consumption, making these models easier to understand and explain compared to more complex approaches [1]. For example, a regression coefficient can directly indicate how an increase in speed or acceleration is associated with changes in energy use.
+
+However, statistical methods also have important limitations when applied to urban EV energy consumption. Many of these models assume linear relationships and independence among observations, assumptions that are frequently violated in real-world driving data where driving behavior and traffic conditions vary over time [1]. As a result, statistical models may struggle to capture nonlinear effects and interactions between variables, leading to reduced predictive performance.
+
+Because of these limitations, statistical methods are often more suitable as baseline or exploratory tools rather than high-accuracy predictors. Their shortcomings in handling complex and highly variable urban driving conditions have motivated the shift toward more flexible machine learning approaches, which can better capture nonlinear patterns in EV energy consumption data [1].
+
+Reference
+[1] X. Zhang, Z. Zhang, Y. Liu, Z. Xu, and X. Qu, “A review of machine learning approaches for electric vehicle energy consumption modelling in urban transportation,” Renewable Energy, vol. 234, p. 121243, Nov. 2024. doi:10.1016/j.renene.2024.121243 

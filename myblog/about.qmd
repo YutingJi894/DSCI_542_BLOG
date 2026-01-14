@@ -1,0 +1,22 @@
+---
+title: "About"
+image: about.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+This blog focuses on using machine learning to model electric vehicle (EV) energy consumption, especially in urban transportation. As EVs become more common, understanding how much energy they actually use in real driving conditions is an important problem for both sustainability and transportation planning.
+
+Instead of looking at EVs only from a technical or engineering perspective, this blog takes a data-driven approach. Different factors, such as driving patterns, traffic, road conditions, and weather, can be used in machine learning models to predict EV energy consumption. Also, different types of models and what their strengths and limitations are in real-world applications are discussed.
+
