@@ -1,6 +1,7 @@
 project:
   type: website
-
+  output-dir: docs
+  
 website:
   title: "How Machine Learning Helps Predict EV Energy Use in Cities"
   navbar:
